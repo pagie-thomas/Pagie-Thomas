@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## 🚀 About Me
 I am an enterprise-focused Data Scientist and Architect with **12 years of experience** building, scaling, and deploying distributed machine learning, NLP, and analytics solutions. My core strength lies in translating complex, ambiguous business problems into stable, production-grade data products that reduce operational overhead and automate heavy workflows.
 
-With a strong foundation in Bathematics, I bridge the gap between heavy statistical engineering and real-world business impact—having deployed mission-critical systems across finance, logistics, defense, and supply chain operations.
+With a strong foundation in Mathematics, I bridge the gap between heavy statistical engineering and real-world business impact—having deployed mission-critical systems across finance, logistics, defense, and supply chain operations.
 
 *   **Core Philosophy:** I don't build machine learning models in a vacuum. I engineer resilient, end-to-end data pipelines focused on operational stability, strict governance, and measurable stakeholder adoption.
 
